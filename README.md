@@ -158,5 +158,6 @@ python scripts/get_vendor_summary.py
 **Ayushi Mishra**  
 Data Analyst  
 📧 Email: sahaidjulaya0@gmail.com
+
 🔗 [LinkedIn](www.linkedin.com/in/shahid-julaya)  
 🔗 [Portfolio](https://github.com/shahidjulaya058)
